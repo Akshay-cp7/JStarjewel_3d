@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246762799869",
+    "project_id": "jstarjewl",
+    "storage_bucket": "jstarjewl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246762799869:android:8500bc11286a3338a73494",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhC-LPTXsBNnP3Ki_7mLGQfPO6B8gYkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

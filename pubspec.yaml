@@ -1,0 +1,42 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3 
+  get: ^4.6.6 
+  cloud_firestore: ^5.5.0
+  font_awesome_flutter: ^10.1.0 
+  intl: ^0.19.0
+ 
+  shared_preferences: ^2.3.3
+  sqflite: ^2.3.3+1
+  image_picker: ^1.1.2
+  model_viewer_plus: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/jstar.logo.jpg 
+    - assets/Bangles/Image4.jpg
+    - assets/Chains/Image4.jpg
+    - assets/Rings/Image1.jpg
+    - assets/Chains/chain1.jpg
+    - assets/Bangles/Bangles1.jpg
+    - assets/Earrings/EarBacks.jpg
+    - assets/Manglustra/Image4.jpg
+    - assets/Logo/Jstar1.jpg
+    - assets/glb/
